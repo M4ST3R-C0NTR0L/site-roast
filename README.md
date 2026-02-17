@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/site-roast.svg)](https://badge.fury.io/py/site-roast)
-[![GitHub stars](https://img.shields.io/github/stars/cybrflux/site-roast.svg?style=social&label=Star)](https://github.com/cybrflux/site-roast)
+[![GitHub stars](https://img.shields.io/github/stars/cybrflux/site-roast.svg?style=social&label=Star)](https://github.com/M4ST3R-C0NTR0L/site-roast)
 
 > **Roast any website's SEO, performance, and design with brutal honesty and actual technical scores.**
 > 
@@ -127,7 +127,7 @@ Audit completed in 847ms
 ════════════════════════════════════════════════════════════════
 
 Built by Cybrflux — We build what AI can't... yet.
-https://cybrflux.online
+https://github.com/M4ST3R-C0NTR0L
 ```
 
 ## 🎯 Features
@@ -168,7 +168,7 @@ pip install site-roast
 ### From Source
 
 ```bash
-git clone https://github.com/cybrflux/site-roast.git
+git clone https://github.com/M4ST3R-C0NTR0L/site-roast.git
 cd site-roast
 pip install -e .
 ```
@@ -294,7 +294,7 @@ We love contributions! Here's how to get started:
 
 ```bash
 # Clone and setup
-git clone https://github.com/cybrflux/site-roast.git
+git clone https://github.com/M4ST3R-C0NTR0L/site-roast.git
 cd site-roast
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -345,8 +345,8 @@ MIT License — see [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
-**Built by [Cybrflux](https://cybrflux.online)** — *We build what AI can't... yet.*
+**Built by [Cybrflux](https://github.com/M4ST3R-C0NTR0L)** — *We build what AI can't... yet.*
 
-[Website](https://cybrflux.online) • [GitHub](https://github.com/cybrflux) • [Twitter](https://twitter.com/cybrflux)
+[Website](https://github.com/M4ST3R-C0NTR0L) • [GitHub](https://github.com/M4ST3R-C0NTR0L) • [Twitter](https://github.com/M4ST3R-C0NTR0L)
 
 </div>
