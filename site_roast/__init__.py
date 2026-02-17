@@ -7,7 +7,7 @@ Think Gordon Ramsay meets web development.
 
 __version__ = "1.0.0"
 __author__ = "Cybrflux"
-__email__ = "team@cybrflux.online"
+__email__ = ""
 __license__ = "MIT"
 
 from .auditor import WebsiteAuditor
